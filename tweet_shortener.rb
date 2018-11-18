@@ -1,6 +1,6 @@
 require 'pry'
 
-def dictionary 
+def dictionary
   replacement = {
     "hello" => "hi",
     "to" => "2",
